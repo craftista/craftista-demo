@@ -6,7 +6,7 @@ We, at [School of Devops](https://schoolofdevops.com) take pride to introduce yo
 
 ## Project Builder's Repo 
 
- If you want to learn by building projects, head over to [Craftista Demo](https://github.com/craftista/craftista-demo) instead and start from scratch. 
+ If you want to learn by building projects, head over to [Craftista Builder's Project](https://github.com/craftista/craftista) instead and start from scratch. 
 
 
 
